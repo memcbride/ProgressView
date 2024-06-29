@@ -44,6 +44,7 @@
 		9118B38B2C308AF700C73604 /* ProgressViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProgressViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9118B38F2C308AF700C73604 /* ProgressViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewUITests.swift; sourceTree = "<group>"; };
 		9118B3912C308AF700C73604 /* ProgressViewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9118B39E2C308C7800C73604 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		9118B3682C308AF500C73604 = {
 			isa = PBXGroup;
 			children = (
+				9118B39E2C308C7800C73604 /* README.md */,
 				9118B3732C308AF500C73604 /* ProgressView */,
 				9118B3842C308AF700C73604 /* ProgressViewTests */,
 				9118B38E2C308AF700C73604 /* ProgressViewUITests */,
